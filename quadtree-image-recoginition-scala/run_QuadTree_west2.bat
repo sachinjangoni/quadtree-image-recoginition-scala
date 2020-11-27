@@ -1,0 +1,1 @@
+java -jar QuadTree.jar west_2.ppm

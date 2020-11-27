@@ -1,0 +1,1 @@
+java -jar QuadTree.jar boxes_1.ppm
